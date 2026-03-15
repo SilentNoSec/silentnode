@@ -1,0 +1,15 @@
+*.orig
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+*.log
+node_modules/
+tor/hostname
+tor/hs_ed25519_secret_key
+tor/hs_ed25519_public_key
